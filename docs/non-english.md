@@ -529,15 +529,14 @@
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Android Keyboard
 * [Bhashini](https://bhashini.gov.in/) - Live Translation App / Text and Speech
 * [PriceTracker](https://pcpricetracker.in/) - PC Component Price Tracking
+* [Jagraan Josh](https://www.jagranjosh.com/) - Indian Education / Exam News
 
 ## ▷ Downloading
 
 * ⭐ **[OlaMovies](https://olamovies.rent/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
-* ⭐ **[MultiMovies](https://multimovies.space/)** - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://telegram.me/multimoviesfun)
-* ⭐ **[MkvCinemas](https://mkvcinemas.bet/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
+* ⭐ **[MkvCinemas](https://mkvcinemas.cat/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.life/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
-* ⭐ **[Filmycity](https://filmycity.sbs/)** - Movies / TV / Anime / 1080p
 * ⭐ **[SD Toons](https://sdtoons.in)** - Movies / TV / Anime / 1080p
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
@@ -548,7 +547,6 @@
 * [MKV Mad](https://www.mkvmad.cool/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/mkvmadofficial)
 * [KatMovieHD](https://katmoviehd.boo/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [PrivateMovieZ](https://privatemoviez.xyz/) - Movies / TV / 1080p
-* [480p TV Series](https://in.480ptvseries.com/) - Movies / TV / Sub / Dub / 720p
 * [MoviesFD](https://moviesfd.cloud/) - Movies / Sub / Dub / 1080p
 * [BollyFlix](https://bollyflix.cat/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Paidnaija](https://paidnaija.com/) - Movies / Sub / 720p / [Telegram](https://t.me/joinchat/E9cst-5oQDA5MzRk)
@@ -587,9 +585,9 @@
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * [AniTime](https://anitime.aniwow.in/) - Anime / Dub / 1080p / [Discord](https://discord.com/invite/FgWTxZc3zr)
-https://aniwow.in/ has only dubs though
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [HHDMovies](https://hhdmovies.baby/) - Movies / TV / Sub / Dub / 1080p
+* [MovieRulzHD](https://movierulzhd.taxi/) - Movies / TV / Sub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies / Dub / 1080p
@@ -625,6 +623,7 @@ https://aniwow.in/ has only dubs though
 
 ## ▷ Reading
 
+* [SuccessCDs](https://www.successcds.net/) - CBSE Study Guides
 * [BDEBooks](https://bdebooks.com/) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [Sanskrit Documents](https://sanskritdocuments.org) - Sacred Texts
@@ -922,6 +921,7 @@ https://aniwow.in/ has only dubs though
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [JakDojade](https://jakdojade.pl/) - Public Transport Map
+* [AnimeSub.info](http://animesub.info/) - Anime Subtitles
 
 ## ▷ Downloading / Pobieranie
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
@@ -966,6 +966,8 @@ https://aniwow.in/ has only dubs though
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
+* [doci PL](https://doci.pl/) - Books
+* [Docer PL](https://docer.pl/) - Books
 
 ***
 
@@ -1194,7 +1196,6 @@ https://aniwow.in/ has only dubs though
 * [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
 * [tancpol](https://tancpol.net/) - Music / MP3
 * [z3.fm](https://z3.fm/) - Music / MP3
-* [Musify](https://musify.club/) - Music / MP3
 * [MetalArea](https://metalarea.org/) or [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
 * [KinoSoundtrack](https://www.kinosoundtrack.com/) - Soundtracks / MP3
@@ -1240,7 +1241,6 @@ https://aniwow.in/ has only dubs though
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
 * [KinoGo](https://kinogo.biz/) - Movies / TV / Anime / Dub / 1080p
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
-* [zona.plus](https://w140.zona.plus/) - Movies / TV / Dub / 1080p
 * [KinoKrad](https://kinokrad.film/) - Movies / TV / Dub / 1080p
 * [baskino](https://baskino.film/) - Movies / Dub / 1080p
 * [gidonline](https://gidonline.eu/) - Movies / TV / Anime / Sub / Dub / 1080p

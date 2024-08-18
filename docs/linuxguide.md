@@ -57,9 +57,9 @@
 
 * 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
 * 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
-* ⭐ **[Ventoy](https://www.ventoy.net)** / [GitHub](https://github.com/ventoy/Ventoy) or [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
+* [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * [DistroSea](https://distrosea.com/), [anuraOS](https://github.com/MercuryWorkshop/anuraOS) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
@@ -369,6 +369,7 @@ Linux Gaming Guide
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount GDrive
 * [maestral](https://maestral.app/) - Dropbox Client
+[SeaFile](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - APT Download Accelerator
 * [Nala](https://gitlab.com/volian/nala) - APT Frontend
 * [aMule](https://www.amule.org/) - eMule-like P2P Client
@@ -423,7 +424,6 @@ Linux Gaming Guide
 * [FSLint](https://www.pixelbeat.org/fslint/), [Czkawka](https://qarmin.github.io/czkawka/), [kdiff3](https://apps.kde.org/en-gb/kdiff3/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
 * [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Unwanted File Finder
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
-* [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
 * [gscan2pdf](https://gscan2pdf.sourceforge.net/) - Turn Documents into PDFs
 * [Linux Filesystem Chart](https://i.ibb.co/ChF9HMH/02e105ba72c1.png) - File System Guide
@@ -485,11 +485,10 @@ Linux Gaming Guide
 * 🌐 **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
-* [Gradience](https://github.com/GradienceTeam/Gradience) - Customize GNOME's Adwaita
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
-* [Polybar (X11)](https://github.com/polybar/polybar), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
+* [Polybar (X11)](https://github.com/polybar/polybar) / [Themes](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [xScreensaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers

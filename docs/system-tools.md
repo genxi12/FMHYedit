@@ -272,7 +272,7 @@
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
 * [DiskInfo](https://github.com/MicaApps/DiskInfo) - Disk Usage Analyzer
 * [Erdtree](https://github.com/solidiquis/erdtree) - Disk Usage Analyzer
-* [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
+* [PC Manager](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Managers / Cleanup
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
 
@@ -363,7 +363,6 @@
 
 ## ▷ USB / Bootloaders 
 
-* ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)** - Create Bootable USB Drives
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / Non-Windows OS
@@ -455,7 +454,7 @@
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Customization / Themes / Wallpapers
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
-* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) or [Darker](https://mswin.me/darker/) - Dark / Light Mode Theme Switcher
+* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Dark / Light Mode Theme Switcher
 * [SecureUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
@@ -488,7 +487,7 @@
 * [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Animated Wallpapers
 * [AutoWall](https://github.com/SegoCode/AutoWall) - Turn Videos / GIFs to Live Wallpapers
 * [Screencaps](https://screencaps.us/) or [shot.cafe](https://shot.cafe/) - Movie / TV Wallpapers
-* [Anime Pictures](https://anime-pictures.net/), [N0va](https://n0vadp.hoyoverse.com), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
+* [Anime Pictures](https://anime-pictures.net/), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [WallpaperWaifu](https://wallpaperwaifu.com/) or [MyLiveWallpapers](https://mylivewallpapers.com/) - Anime Wallpapers
 * [Dracula Wallpapers](https://draculatheme.com/wallpaper) - Dracula Wallpapers
 * [WallpaperHub](https://www.wallpaperhub.app/) or [Windows Wallpaper Pack](https://drive.google.com/drive/folders/1-80cROdVY-GSwu9fGnJJyglcERKyJ-gP) - Windows Wallpapers
 * [Mac Walls](https://goo.gl/photos/HjY1hmo6p3jfFz8a7), [2](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) - Apple Wallpapers

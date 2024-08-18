@@ -56,7 +56,7 @@
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg](https://github.com/Detanup01/gbe_fork)** / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Offline Steam DRM Bypass / Multiplayer Emulator
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
-* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
+* ⭐ **[SteamDB](https://steamdb.info/)** or [Steambase](https://steambase.io/) - Steam Insights Tools / [Extension](https://steamdb.info/extension/)
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
 * ⭐ **[RedAlt SteamUp](https://cs.rin.ru/forum/viewtopic.php?f=14&t=138413&p=3000090)** - Steam Depot Update Creator
 * ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)**, [LEGENDARY](https://github.com/derrod/legendary) / [Discord](https://legendary.gl/discord) or [Rare](https://github.com/RareDevs/Rare) - Epic Games Launcher
@@ -158,7 +158,7 @@
 
 ## ▷ Controller Tools
 
-* [DS4Windows](https://github.com/TRARS/DS4Windows) / [2](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
+* ⭐ **[DS4Windows](https://github.com/TRARS/DS4Windows)** / [2](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [DualSenseY](https://github.com/WujekFoliarz/DualSenseY), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
 * [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [DsHidMini](https://docs.nefarius.at/projects/DsHidMini/) - Use PS3 Controllers on Windows
@@ -296,6 +296,7 @@
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [BoardGameGeek](https://boardgamegeek.com/) - Board Game Database
 * [Board Game Breakdown](https://boardgamebreakdown.com/) - Board Game Reviews
+* [Can I Play That?](https://caniplaythat.com/) - Video Game Accessibility Reviews
 * [MoreGamesLike](https://www.moregameslike.com/) or [Games Like Finder](https://gameslikefinder.com/) - Find Similar Games
 * [DigitalDreamDoor](https://digitaldreamdoor.com/pages/games.html) - List of the Best Games
 * [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility 
@@ -427,7 +428,7 @@
 * ⭐ **[3DS Jailbreak Guide](https://3ds.hacks.guide/)** - 3DS Jailbreak Guide
 * ⭐ **[DSi Jailbreak Guide](https://dsi.cfw.guide/)** - DSi Jailbreak Guide
 * ⭐ **[Wiimmfi](https://wiimmfi.de/)** or [Kaeru Team](https://kaeru.world/) - DS Multiplayer Servers
-* [Pretendo](https://pretendo.network/) - 3DS Network Replacement / [Discord](https://invite.gg/pretendo)
+* [Pretendo](https://pretendo.network/) - 3DS Network Replacement
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
 * [Artic Base](https://github.com/PabloMK7/ArticBaseServer) - Play Physical 3DS Games on Citra
@@ -481,7 +482,6 @@
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft Archive
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [MiniMessageViewer](https://webui.advntr.dev/) - Format Plugin Messages
-* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
 * [CaveX](https://oscwii.org/library/app/cavex) - Minecraft for Wii
 * [Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - Minecraft for TI 84 CE Calculator
 
@@ -493,6 +493,7 @@
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup
+* [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties), [World Host](https://modrinth.com/mod/world-host) or [Essential](https://modrinth.com/mod/essential) - Local Server Multiplayer Mods
 * [setup.md](https://setup.md/) - Server Admin Guides / Wiki
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
@@ -500,7 +501,6 @@
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server
 * [Cuberite](https://cuberite.org/) - Server Setup
 * [DriveBackupV2](https://modrinth.com/plugin/drivebackupv2) - Server Plugin to Create Cloud Backups of Worlds
-* [World Host](https://modrinth.com/mod/world-host) - No Server Single Player
 * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish), [Purpur](https://purpurmc.org/) / [Discord](https://purpurmc.org/discord) or [Paper](https://papermc.io/software/paper) - Performance Enhancement Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
@@ -522,7 +522,7 @@
 * [Betacraft](https://betacraft.uk/) - Legacy Versions Launcher
 * [CheatBreaker](https://cheatbreaker.net/) - FPS Modpack Launcher / [GitHub](https://github.com/CheatBreakerNet/Launcher)
 * [MultiMC](https://multimc.org/) - Launcher
-* [Legacy Launcher](https://lln4.ru/en) - Launcher / [Discord](https://discord.com/invite/cVJuz5R)
+* [Legacy Launcher](https://lln4.ru/en), [2](https://llaun.ch/en) - Launcher / [Discord](https://discord.com/invite/cVJuz5R)
 * [HMCL](https://hmcl.huangyuhui.net/) - Launcher / [GitHub](https://github.com/HMCL-dev/HMCL)
 * [LabyMod](https://www.labymod.net/) - Launcher
 * [Crystal Launcher](https://crystal-launcher.net/) - Launcher
@@ -540,7 +540,6 @@
 * ↪️ **[Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_optimization_mods)**
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide
 * [Bobby](https://modrinth.com/mod/bobby) - Uncap Render Distance Slider
-* [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) or [Essential](https://modrinth.com/mod/essential) - Multiplayer Mods
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Mod Loaders
 * [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Forgix](https://github.com/PacifistMC/Forgix) - Merge Mod Loaders
@@ -584,6 +583,7 @@
 * [Minecraft Tools](https://minecraft.tools/en/) or [GamerGeeks](https://www.gamergeeks.net/) - Minecraft Tools / Calculators
 * [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
 * [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
+* [MinecraftJSON](https://www.minecraftjson.com/) - Minecraft Tellraw Generator
 * [Cubical](https://www.cubical.xyz/) - Minecraft 3D Schematic Tool / [Beta](https://beta.cubical.xyz/)
 * [Custom-MC-Render-Cweeper](https://rentry.co/custom-mc-render-cweeper) - Import Custom 3D Models into Minecraft
 * [ObjToSchematic](https://objtoschematic.com/) - Converts 3D Models into MC Formats / [Discord](https://discord.com/invite/McS2VrBZPD)

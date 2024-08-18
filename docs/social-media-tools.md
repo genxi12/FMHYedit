@@ -25,9 +25,9 @@
 ***
 
 * 🌐 **[Awesome Discord](https://github.com/jacc/awesome-discord)** - Discord Tool Index
-* ⭐ **[x266.mov](https://x266.mov/discord-embed)**, [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/), [noury](https://dc.noury.li/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt) or **[Guilded](https://www.guilded.gg/)** - Discord Alternatives
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
+* [embeds.video](https://embeds.video/), [Stolen Shoes](https://stolen.shoes/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * [Multi-Accounts 1 Email](https://generator.email/blog/gmail-generator) - Create Multi Accounts with One Email / [Guide](https://rentry.co/altmethod)
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine
 * [DiscordFS](https://github.com/dhrumilp15/haystackfs) - Discord File Search
@@ -129,6 +129,7 @@
 * [MonitoRSS](https://monitorss.xyz/) - RSS Discord Bot
 * [Wallabot](https://github.com/FahadBinHussain/wallabot) - Wallabag Discord Bot
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [Music-bot](https://github.com/ZerioDev/Music-bot) / [Discord](https://discord.gg/Kqdn8CHacP), [Chip](https://chipbot.gg/), [MusicBot](https://github.com/jagrosh/MusicBot) or [EvoBot](https://github.com/eritislami/evobot) - Music Bots
+* [Steambase Bot](https://steambase.io/tools/steam-discord-bot) - Steam Insights Bot
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot), [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) or [Loritta](https://github.com/LorittaBot/Loritta) - Self-hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti Phishing Bot
@@ -189,7 +190,6 @@
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlight New Comments
 * [Pholder](https://pholder.com/) - Article Style Viewer
 * [Load Reddit Images Directly](https://github.com/nopperl/load-reddit-images-directly) - Direct Image Viewer
-* [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [When to Post](https://andreasbm.github.io/when-to-post-on-reddit/) - Best Reddit Posting Times
 * [UniversalScammerList](https://www.universalscammerlist.com/) - List of Reddit Scammers
 * [Piracy](https://www.reddit.com/user/nbatman/m/piracy/), [The Piracy Feed](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/), [PiracyHub](https://www.reddit.com/user/nanomuto/m/piracyhub/) or [Piracy Counterfeit Goods](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/) - Piracy Multireddits
@@ -285,11 +285,11 @@
 ## ▷ Telegram Clients
 
 * ⭐ **[web.telegram](https://web.telegram.org/)** / [2](https://webk.telegram.org/) / [3](https://weba.telegram.org/) - Web Client
+* ⭐ **[Materialgram](https://github.com/kukuruzka165/materialgram)** - Desktop Client
 * ⭐ **[Unigram](https://github.com/UnigramDev/Unigram)** - Desktop Client
 * [TDesktop](https://github.com/Forkgram/tdesktop) - Desktop Client / [x64](https://github.com/TDesktop-x64/tdesktop) / [Telegram](https://t.me/tg_x64)
 * [VideoGram](https://vidogram.org/) - Desktop Client
 * [AyuGram](https://github.com/AyuGram/AyuGramDesktop) - Desktop Client
-* [Materialgram](https://github.com/kukuruzka165/materialgram) - Desktop Client
 * [Pyrogram](https://docs.pyrogram.org/) / [Session Strings](https://t.me/SessionStringGeneratorZBot) - Telegram API Client
 * [Telega.el](https://github.com/zevlg/telega.el) - Telegram Emacs Client
 * [VanillaTG](https://t.me/VanillaTG) - Client Themes
@@ -315,7 +315,7 @@
 
 ## ▷ Telegram Bots
 
-* 🌐 **[BotsArchive](https://t.me/BotsArchive)**, [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/), [botostore](https://botostore.com/) or [borodutch.eth](https://borodutch.com/)- Telegram Bots Indexes
+* 🌐 **[BotsArchive](https://t.me/BotsArchive)**, [botlist](https://t.me/botlist), [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) or [borodutch.eth](https://borodutch.com/)- Telegram Bots Indexes
 * [TG Bot](https://t.me/drlinkbot) - Ad Link Bypass Bot / [GitHub](https://github.com/TheCaduceus/Link-Bypasser-Bot)
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
 * [ongaku](https://github.com/likeadragonmaid/Ongaku) - Display Playing Android Audio in Status
@@ -654,14 +654,13 @@
 * ⭐ **[Bypass Login](https://greasyfork.org/en/scripts/420604)** - Bypass Instagram Login Redirects
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds on Discord
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) or [Imginn](https://imginn.com) - Instagram Frontends
-* [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
+* [imgsed](https://imgsed.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer), [Dumpor](https://dumpoir.com/) or [GreatFon](https://greatfon.com/) - Instagram Viewers
 * [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
 * [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) - Video / Picture / Story Downloaders
 * [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos) or [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
 * [InstaLoader](https://instaloader.github.io/) or [PixWox](https://www.pixwox.com/) - Picture Downloaders
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
-* [Resizegram](https://resizegram.com/) - Resize Videos
 * [Instagram Video Control](https://github.com/Arcus92/instagram-video-control/) - Video Controls
 * [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
@@ -728,7 +727,7 @@
 
 ## ▷ Lemmy Tools
 
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Feddit Community Browser](https://browse.feddit.de/) or [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
+* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)** or [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
 * [Quiblr](https://quiblr.com/) - Lemmy Instance Browser
@@ -761,7 +760,7 @@
 
 # ► 4chan Tools
 
-* ⭐ **[AnyChans](https://anychans.github.io/)** or [LuckyChan](https://luckychan.app/) - 4chan Web Clients
+* ⭐ **[AnyChans](https://anychans.github.io/)** - 4chan Web Clients
 * ⭐ **[4chan X](https://www.4chan-x.net/)**, [SpookyX](https://github.com/Fiddlekins/SpookyX), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Enhancement Extensions
 * [Lurka](https://github.com/AdamSalma/Lurka) - Desktop Client
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Web Client
@@ -784,7 +783,6 @@
 * ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search) - 4chan Archives
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - Search 4chan Archives
 * [Oldfriend Archive](https://old.sage.moe/) - 2004 - 2014 Archive
-* [Hayden Ultra](https://ultra.gondola.pics/) - 2018-2023 Archive
 * [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion) or [4Museum](https://4museum.neocities.org/) - 2006 - 2008 Archive
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012) - 2009 - 2012 Archive
 * [Archive.4plebs](https://archive.4plebs.org/) - 2013 - 2023 Archive

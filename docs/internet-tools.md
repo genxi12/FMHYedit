@@ -31,6 +31,7 @@
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
+* [TCP Optimizer](https://www.speedguide.net/downloads.php) - Connection Optimization / Tuning
 * [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public Wi-Fi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [Hosts File Editor](https://hostsfileeditor.com/) or [HostsDock](https://eshengsky.github.io/HostsDock/) - Windows Hosts File Editors
@@ -111,7 +112,7 @@
 * [Shiori](https://github.com/go-shiori/shiori)
 * [LinkSnatch](https://linksnatch.pages.dev/)
 * [KeepThisSite](https://keepthis.site/)
-* [ln.ht](https://ln.ht/), [link.horse](https://link.horse/), [currl](https://currl.io/) or [tinygem](https://tinygem.org/) - Social Bookmarking
+* [ln.ht](https://ln.ht/), [link.horse](https://link.horse/) or [tinygem](https://tinygem.org/) - Social Bookmarking
 * [linkwarden](https://github.com/linkwarden/linkwarden) - Self-Hosted Bookmark Manager
 
 ***
@@ -205,11 +206,12 @@
 
 * ⭐ **[All about RSS](https://github.com/AboutRSS/ALL-about-RSS)** / [Telegram](https://t.me/s/aboutrss), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * ⭐ **[Feedly](https://feedly.com/)** - RSS Reader / [Notifier](https://olsh.me/Feedly-Notifier/)
+* ⭐ **[RSS Guard](https://github.com/martinrotter/rssguard)** - RSS Reader / [Scraper](https://github.com/Owyn/CSS2RSS) / [Discord](https://discord.com/invite/7xbVMPPNqH)
+* ⭐ **[Inoreader](https://www.inoreader.com/)** - RSS Reader
 * ⭐ **[RSS Bridge](https://rss-bridge.org/bridge01/) / [GitHub](https://github.com/RSS-Bridge/rss-bridge)**, **[Feedless](https://feedless.org/)**, [MoRSS](https://morss.it/), [RSSHub](https://github.com/DIYgod/RSSHub), [Open RSS](https://openrss.org/), [RSS Please](https://rsspls.7bit.org/), [FetchRSS](https://fetchrss.com/), [Politepol](https://politepol.com/en/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
 * [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
-* [Inoreader](https://www.inoreader.com/) - RSS Reader
 * [JungleReader](https://www.zajungle.com/) - RSS Reader
 * [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
 * [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - RSS Reader
@@ -218,7 +220,6 @@
 * [selfoss](https://selfoss.aditu.de/) - RSS Reader
 * [gorss](https://github.com/Lallassu/gorss) - RSS Reader
 * [NewsPipe](https://github.com/cedricbonhomme/newspipe) - RSS Reader
-* [RSS Guard](https://github.com/martinrotter/rssguard) - RSS Reader
 * [NewsBlur](http://www.newsblur.com) / [GitHub](https://github.com/samuelclay/NewsBlur) - RSS Reader
 * [Osmosfeed](https://osmoscraft.org) / [GitHub](https://github.com/osmoscraft/osmosfeed) - RSS Reader
 * [rss](https://github.com/ssddanbrown/rss) - RSS Reader
@@ -239,6 +240,7 @@
 * ⭐ **[The Search Engine Map](https://www.searchenginemap.com/)** - View Search Engine Connections
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
+* [Trovu.net](https://trovu.net/) - Command Search / [Github](https://github.com/trovu/trovu)
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Soovle](https://soovle.com/), [Keyword.io](https://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
@@ -429,7 +431,7 @@
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs / `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs / `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL / `thinfi.com/q8aw`
-* [Emojied](https://emojied.net/), [vi8hl0c](https://xn--vi8hl0c.ws/) or [kn8h](https://xn--kn8h.to/) - Emoji URL Shorteners
+* [Emojied](https://emojied.net/) or [kn8h](https://xn--kn8h.to/) - Emoji URL Shorteners
 * [ShortShare](https://shortshare.app/) - Short Link App
 * [BR3F](https://www.br3f.com/) - Single-Click Short Links
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot
@@ -469,7 +471,7 @@
 
 ## ▷ Domain / DNS
 
-* ↪️ **[DNS / Web Security](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_dns_.2F_web_security)**
+* ↪️ **[DNS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools)**
 * ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
 * [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Investigation Tools
 * [Rankchart](https://rankchart.org/) - Multiple Domain Tools
@@ -542,7 +544,6 @@
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [Ago Gmail](https://www.agogmail.com/) - Gmail / 2 Domains
-* [Dispostable](https://www.dispostable.com/) - Forever / 2 Months / 1 Domain
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
 * [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains

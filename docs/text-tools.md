@@ -15,7 +15,6 @@
 * [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [PaperMerge](https://www.papermerge.com/), [Paperless-ngx](https://docs.paperless-ngx.com) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
-* [Delim](https://delim.co/) - Comma Separating Tool
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [BeefText](https://beeftext.org/) - Text Substitution Tool
@@ -38,7 +37,6 @@
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[PrivateBin](https://privatebin.net/)** - Markdown Support / Syntax Highlighting / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[snowbin](https://pastes.fmhy.net/)**, [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
-* ⭐ **[Linqbin](https://linqbin.cc/)** - Plain Text / [GitHub](https://github.com/daniel-lxs/linqbin)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)** - Pastebin CSE
 * [Text.is](https://text.is/) - Markdown Support / Rentry Clone
@@ -75,6 +73,7 @@
 * ⭐ **[Google Translate](https://translate.google.com/)** / [API](https://github.com/vitalets/google-translate-api)
 * ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Browser Extension
+* [Mozhi](https://translate.bus-hit.me/) - Multi Translator Frontend
 * [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
@@ -92,11 +91,11 @@
 * [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extension
 * [S3Translator](https://www.s3blog.org/s3translator.html) - Browser Extension
 * [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Browser Extension
-* [ImmersiveTranslate](https://immersivetranslate.com/en/) - Browser Extension
 * [Mate Translate](https://gikken.co/mate-translate) - Browser Extension
 * [ImTranslator](https://imtranslator.net/) - Browser Extension
 * [Papago](https://papago.naver.com/)
 * [Libretranslate](https://libretranslate.com/) / [2](https://github.com/LibreTranslate/LibreTranslate)
+* [ImmersiveTranslate](https://app.immersivetranslate.com/) / [Extension](https://immersivetranslate.com/en/)
 * [Translate.com](https://www.translate.com/)
 * [MyMemory](https://mymemory.translated.net/)
 * [Nice Translator](https://nicetranslator.com/)
@@ -150,6 +149,7 @@
 * [EditGPT](https://www.editgpt.app/)
 * [Grammarly](https://www.grammarly.com/grammar-check)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker)
+* [Outwrite](https://www.outwrite.com/)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
 
@@ -419,7 +419,6 @@
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown and more
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Premium](https://rentry.co/FMHYBase64#tiktik)
 * [Columns](https://columns.app/) or [ChecklistGenerator](https://checklistgenerator.co/) - Checklists
-* [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
 * [SuperList](https://www.superlist.com/)
@@ -492,7 +491,7 @@
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
 * [Typerip](https://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/) , [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editors
+* [FontEdit](https://github.com/ayoy/fontedit), [metaflop](https://www.metaflop.com/) , [glif](https://github.com/MFEK/glif), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/), [Universal Sans](https://universalsans.com/) or [Font Forge](https://fontforge.org/en-US/) - Font / Typeface Editors
 * [Transfonter](https://transfonter.org/) - Font Converter
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
 * [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles

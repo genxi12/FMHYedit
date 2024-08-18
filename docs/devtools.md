@@ -144,7 +144,7 @@
 * [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - .NET Debugger and Assembly Editor
 * [Gaultier Blog](https://gaultier.github.io/blog/x11_x64.html) - Learn x86-64 Assembly
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
-* [Cron AI](https://cron-ai.vercel.app/) or [Cron Cat](https://www.crontabcat.com/) - Convert Words to Cron Expressions
+* [Cron AI](https://cron-ai.vercel.app/) - Convert Words to Cron Expressions
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Website Components
 * [Fluent Svelte](https://fluent-svelte.vercel.app/) - Microsoft's Fluent Design System in Svelte
@@ -401,7 +401,7 @@
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** or [API Together](https://api.together.xyz/playground) - AI APIs and Sites
-* ↪️ **[Streaming APIs](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_streaming_apis)**
+* ↪️ **[Streaming APIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_streaming_apis)**
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/), [Strapi](https://strapi.io/), or [Postman](https://www.postman.com/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
@@ -578,7 +578,6 @@
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
 * [Prettier](https://prettier.io/) - Code Formatting Tool / [GitHub](https://github.com/prettier/prettier)
-* [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Code Editor / Notepad
 * [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
@@ -813,7 +812,7 @@
 * [100DayCSS](https://100dayscss.com/) , [CSS Challenges](https://css-challenges.com/) or [PlayCSS](https://playcss.app/) - CSS Challenges
 * [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/), [CodingFantasy](https://codingfantasy.com/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
 * [Guess CSS](https://www.guess-css.app/) - CSS Guessing Game
-* [Flexbox Froggy](https://flexboxfroggy.com/), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
+* [Flexbox Froggy](https://flexboxfroggy.com/), [Flexbox Zombies](https://mastery.games/flexboxzombies), [FlexboxDefense](http://www.flexboxdefense.com/) or [KnightsoftheFlexboxTable](https://knightsoftheflexboxtable.com/) - CSS Flexbox Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) or [GridByExample](https://gridbyexample.com/) - CSS Grid Guides
 * [Leaflet](https://leafletjs.com/) - JavaScript Library for Interactive Maps
@@ -935,6 +934,7 @@
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [MicroCorruption](https://microcorruption.com/) - Learn Reverse Engineering / Cybersecurity
+* [x86re](https://x86re.com/) - Reverse Engineering Guide
 * [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/) - Application Security Guide
 * [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
@@ -1280,6 +1280,7 @@
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [Bubble](https://bubble.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Lowdefy](https://lowdefy.com/), [Capacitor](https://github.com/ionic-team/capacitor) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) or [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
+* [Selenium](https://www.selenium.dev/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
@@ -1363,7 +1364,6 @@
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
 * [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
-* [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Lottielab](https://www.lottielab.com/) - Create Motion Graphics
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
@@ -1541,7 +1541,7 @@
 
 ***
 
-## ▷ DNS / Web Security
+## ▷ DNS Tools
 
 * ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
 * ⭐ **[mess with dns](https://messwithdns.net/)** - Experiment with DNS
@@ -1553,6 +1553,11 @@
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info), [DNSHistory](https://dnshistory.org/) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tools
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [dynu](https://dynu.com/), [NoIP](https://www.noip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
+
+***
+
+## ▷ Web Security
+
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication

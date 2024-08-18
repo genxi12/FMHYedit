@@ -48,8 +48,6 @@
 * [LemmaSoft](https://lemmasoft.renai.us/) - Visual Novel Games / [Discord](https://discord.gg/6ckxWYm)
 * [VGPErson](https://vgperson.com/games/) - Simple Japanese Games
 * [SAGE](https://sagexpo.org/) - Sonic Fan Games / [Discord](https://discord.sonicfangameshq.com/)
-* [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Mods](https://gamebanana.com/games/15019) 
-* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/games/6878) 
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [DoujinStyle](https://doujinstyle.com) - Doujin Games / [Discord](https://discord.com/invite/z2QDFdA)
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
@@ -128,6 +126,8 @@
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
+* [TeamForever](https://teamforeveronline.wixsite.com/home) - Sonic 1 & 2 Enhanced / [S1F Mods](https://gamebanana.com/games/10601) / [S2A Mods](https://gamebanana.com/games/15019) 
+* [Sonic 3 A.I.R.](https://sonic3air.org/) - Sonic 3 & Knuckles Enhanced / [Mods](https://gamebanana.com/games/6878) / [Discord](https://dc.railgun.works/s3air) / [GitHub](https://github.com/Eukaryot/sonic3air)
 * [EDuke32](https://www.eduke32.com/) - Duke Nukem 3D Source Port
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Duke Nukem Ports
 * [SP Tarkov](https://www.sp-tarkov.com/) - Escape From Tarkov Single Player Mod
@@ -284,7 +284,7 @@
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [PKGPS4](https://www.pkgps4.click/) or [Hopmarks](https://www.hopmarks.com/) (torrent) - ROMs / PS4
 * [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
-* [PSVitaVPK](https://psvitavpk.com/), [2](https://psvitagamesdd.com/) - ROMs / PSP
+* [PSVitaVPK](https://psvitavpk.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
@@ -390,6 +390,7 @@
 * [Haxball](https://www.haxball.com/) - Physics-Based Soccer
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
+* [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [slow roads](https://slowroads.io/) - Driving Game
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
 * [Neopets](https://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
@@ -553,7 +554,7 @@
 
 * ↪️ **[Chess Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_chess)**
 * ⭐ **[lichess](https://lichess.org/)**, [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms
-* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Customize](https://prettierlichess.github.io/) / [Leagues](https://www.lichess4545.com/)
+* ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Mobile V2](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) / [Customize](https://prettierlichess.github.io/) / [Leagues](https://www.lichess4545.com/)
 * ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game
 * [Warzone](https://www.warzone.com/) - RISK Clone
@@ -646,11 +647,12 @@
 * [GuessAnimeQuiz](https://guessanimequiz.com/) - Anime Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
 * [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Wiki Exploration Games / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
-* [MusicNerd](https://musicnerd.io/) - Music Guessing Game
+* [MusicNerd](https://musicnerd.io/) or [Heardle](https://heardle-wordle.com/game/heardle-main/ ) - Music Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [Poeltl](https://poeltl.nbpa.com/) - NBA Guessing Game
 * [The Higher Lower Game](https://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
+* [LanguageGuessr](https://languageguessr.io/) - Language Geoguessr
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
@@ -678,6 +680,7 @@
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [TimeGuessr](https://timeguessr.com/) - Historical GeoGuessr
+* [Worldle](https://worldle.teuteuf.fr/) - Country GeoGuessr
 * [travle](https://travle.earth/) - Guess Countries Between Two Locations
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - Geoguessr Map Generator
 
@@ -703,6 +706,7 @@
 * [Nerdle](https://nerdlegame.com/) - Number Guessing Game
 * [Factle](https://factle.app/) - Fact Style Wordle
 * [Countle](https://www.countle.org/) - Math Style Wordle
+* [Hexcodle](https://www.hexcodle.com/) - Hex Code Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Style Wordle
 * [LoLdle](https://loldle.net/) - League of Legends Wordle
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Crafting Style Wordle
