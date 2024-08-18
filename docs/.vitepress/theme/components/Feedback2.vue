@@ -69,6 +69,7 @@ const isDisabled = computed(() => {
 })
 
 const router = useRouter()
+// prettier-ignore
 const feedback = reactive<
   Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
 >({
@@ -125,14 +126,14 @@ const message = computed(() => getMessage(feedback.type!))
     <button
       v-if="!showCard"
       @click="showCard = true"
-      class="ml-auto inline-flex h-8 items-center justify-center rounded-md whitespace-nowrap text-sm text-primary font-medium border-solid border-1 border-primary hover:border-dotted bg-bg-alt px-2 py-2 sm:h-7"
+      class="text-primary border-1 border-primary bg-bg-alt ml-auto inline-flex h-8 items-center justify-center whitespace-nowrap rounded-md border-solid px-2 py-2 text-sm font-medium hover:border-dotted sm:h-7"
     >
       <span class="i-carbon-send-alt" />
       <span class="sr-only">Send Feedback</span>
     </button>
     <button
       v-if="showCard"
-      class="ml-auto inline-flex h-8 items-center justify-center rounded-md whitespace-nowrap text-sm text-primary font-medium border-solid border-1 border-primary hover:border-dotted bg-bg-alt px-2 py-2 sm:h-7"
+      class="text-primary border-1 border-primary bg-bg-alt ml-auto inline-flex h-8 items-center justify-center whitespace-nowrap rounded-md border-solid px-2 py-2 text-sm font-medium hover:border-dotted sm:h-7"
       @click="showCard = false"
     >
       <span class="i-carbon-close" />
@@ -142,7 +143,7 @@ const message = computed(() => getMessage(feedback.type!))
   <template v-else>
     <button
       v-if="!showCard"
-      class="mt-2 text-primary font-bold text-underline text-sm"
+      class="text-primary text-underline mt-2 text-sm font-bold"
       @click="showCard = true"
     >
       <span class="i-carbon-send-alt mr-2" />
@@ -150,7 +151,7 @@ const message = computed(() => getMessage(feedback.type!))
     </button>
     <button
       v-if="showCard"
-      class="mt-2 text-primary font-bold text-underline text-sm"
+      class="text-primary text-underline mt-2 text-sm font-bold"
       @click="showCard = false"
     >
       <span class="i-carbon-close mr-2" />
@@ -198,17 +199,17 @@ const message = computed(() => getMessage(feedback.type!))
           <p class="heading">
             {{ message }}
           </p>
-          <div v-if="feedback.type === 'suggestion'" class="text-sm mb-2">
+          <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
             <details>
               <summary>
-                <span class="i-carbon-warning ml-1 mb-1 bg-cerise-400" />
+                <span class="i-carbon-warning bg-cerise-400 mb-1 ml-1" />
                 Do not submit any of the following:
               </summary>
               <strong>🕹️ Emulators</strong>
               <p class="desc">
                 They're already on the
                 <a
-                  class="text-primary font-bold text-underline"
+                  class="text-primary text-underline font-bold"
                   href="https://emulation.gametechwiki.com/index.php/Main_Page"
                 >
                   Game Tech Wiki.
@@ -218,7 +219,7 @@ const message = computed(() => getMessage(feedback.type!))
               <p class="desc">
                 They're already on the
                 <a
-                  class="text-primary font-bold text-underline"
+                  class="text-primary text-underline font-bold"
                   href="https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches"
                 >
                   File Hosting Wiki.
@@ -228,7 +229,7 @@ const message = computed(() => getMessage(feedback.type!))
               <p class="desc">
                 They're already on
                 <a
-                  class="text-primary font-bold text-underline"
+                  class="text-primary text-underline font-bold"
                   href="https://distrowatch.com/"
                 >
                   DistroWatch.
@@ -255,7 +256,7 @@ const message = computed(() => getMessage(feedback.type!))
             If you want a reply to your feedback, feel free to mention a contact
             in the message or join our
             <a
-              class="text-primary font-semibold text-underline"
+              class="text-primary text-underline font-semibold"
               href="https://discord.gg/Stz6y6NgNg"
             >
               Discord.
