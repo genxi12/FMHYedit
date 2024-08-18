@@ -126,35 +126,33 @@ const message = computed(() => getMessage(feedback.type!))
     <button
       v-if="!showCard"
       @click="showCard = true"
-      class="text-primary border-1 border-primary bg-bg-alt ml-auto inline-flex h-8 items-center justify-center whitespace-nowrap rounded-md border-solid px-2 py-2 text-sm font-medium hover:border-dotted sm:h-7"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-auto inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6"
     >
-      <span class="i-carbon-send-alt" />
-      <span class="sr-only">Send Feedback</span>
+      <span class="i-lucide:heart-handshake" />
     </button>
     <button
       v-if="showCard"
-      class="text-primary border-1 border-primary bg-bg-alt ml-auto inline-flex h-8 items-center justify-center whitespace-nowrap rounded-md border-solid px-2 py-2 text-sm font-medium hover:border-dotted sm:h-7"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-auto inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6"
       @click="showCard = false"
     >
-      <span class="i-carbon-close" />
-      <span class="sr-only">Close Feedback</span>
+      <span class="i-lucide:circle-x" />
     </button>
   </template>
   <template v-else>
     <button
       v-if="!showCard"
-      class="text-primary text-underline mt-2 text-sm font-bold"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary select-none rounded border-2 border-solid font-bold transition-all duration-300"
       @click="showCard = true"
     >
-      <span class="i-carbon-send-alt mr-2" />
+      <span class="i-lucide:heart-handshake mr-2" />
       <span>Send Feedback</span>
     </button>
     <button
       v-if="showCard"
-      class="text-primary text-underline mt-2 text-sm font-bold"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary select-none rounded border-2 border-solid font-bold transition-all duration-300"
       @click="showCard = false"
     >
-      <span class="i-carbon-close mr-2" />
+      <span class="i-lucide:circle-x mr-2" />
       <span>Close Feedback</span>
     </button>
   </template>
@@ -192,7 +190,7 @@ const message = computed(() => getMessage(feedback.type!))
                 class="btn"
                 @click="feedback.type = undefined"
               >
-                <span class="i-carbon-close-large">close</span>
+                <span class="i-lucide:arrow-left-from-line">close</span>
               </button>
             </div>
           </div>
@@ -202,7 +200,7 @@ const message = computed(() => getMessage(feedback.type!))
           <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
             <details>
               <summary>
-                <span class="i-carbon-warning bg-cerise-400 mb-1 ml-1" />
+                <span class="i-lucide:shield-alert bg-cerise-400 mb-1 ml-1" />
                 Do not submit any of the following:
               </summary>
               <strong>🕹️ Emulators</strong>
