@@ -24,7 +24,13 @@ const prompts = [
   'We need your help 👋',
   'Your feedback is valuable 💯',
   'So... what do you think?',
-  "I guess you don't need to say anything 😉"
+  "I guess you don't need to say anything 😉",
+  'Spill the beans 💣',
+  "We're always looking for ways to improve!.",
+  'Your feedback is valuable and helps us make FMHY better.',
+  'aliens are watching you 👽',
+  'tasky was here 👀',
+  'The internet is full of crap 😱'
 ]
 
 function getPrompt() {
@@ -39,7 +45,8 @@ const messages = {
   suggestion: [
     "We're glad you want to share your ideas!",
     'Nix the fluff and just tell us what you think!',
-    "We'll be happy to read your thoughts and incorporate them into our content."
+    "We'll be happy to read your thoughts and incorporate them into our wiki.",
+    "Hello! We're glad you want to share your ideas!"
   ],
   appreciation: [
     'We appreciate your support!',
@@ -114,57 +121,63 @@ async function handleSubmit(type?: FeedbackType['type']) {
   }
 }
 
-const showCard = ref<boolean>(false)
-const helpfulText = props.heading ? 'section' : 'page'
+const isCardShown = ref<boolean>(false)
+const helpfulText = props.heading
+  ? 'What do you think about this section?'
+  : 'What do you think about this page?'
+const helpfulDescription = props.heading
+  ? 'Let us know how helpful this section is.'
+  : 'Let us know how helpful this page is.'
 
 const prompt = computed(() => getPrompt())
 const message = computed(() => getMessage(feedback.type!))
+const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </script>
 
 <template>
   <template v-if="props.heading">
     <button
-      v-if="!showCard"
-      @click="showCard = true"
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-auto inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6"
+      @click="toggleCard()"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6"
     >
-      <span class="i-lucide:heart-handshake" />
-    </button>
-    <button
-      v-if="showCard"
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-auto inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6"
-      @click="showCard = false"
-    >
-      <span class="i-lucide:circle-x" />
+      <span
+        :class="
+          isCardShown === false
+            ? `i-lucide:heart-handshake`
+            : `i-lucide:circle-x`
+        "
+      />
     </button>
   </template>
   <template v-else>
     <button
-      v-if="!showCard"
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary select-none rounded border-2 border-solid font-bold transition-all duration-300"
-      @click="showCard = true"
+      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
+      @click="toggleCard()"
     >
-      <span class="i-lucide:heart-handshake mr-2" />
+      <span
+        :class="
+          isCardShown === false
+            ? `i-lucide:heart-handshake mr-2`
+            : `i-lucide:circle-x mr-2`
+        "
+      />
       <span>Send Feedback</span>
-    </button>
-    <button
-      v-if="showCard"
-      class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary select-none rounded border-2 border-solid font-bold transition-all duration-300"
-      @click="showCard = false"
-    >
-      <span class="i-lucide:circle-x mr-2" />
-      <span>Close Feedback</span>
     </button>
   </template>
 
   <Transition name="fade" mode="out-in">
-    <div v-if="showCard" class="wrapper step">
+    <div
+      v-if="isCardShown"
+      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] step mt-4 border-2 border-solid p-6"
+    >
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type" class="step">
           <div>
             <div>
               <p class="desc">{{ prompt }}</p>
-              <p class="heading">How helpful was this {{ helpfulText }}?</p>
+              <p class="heading">
+                {{ helpfulText }}
+              </p>
             </div>
           </div>
           <div class="flex flex-wrap gap-2">
@@ -181,7 +194,7 @@ const message = computed(() => getMessage(feedback.type!))
         <div v-else-if="feedback.type && !success" class="step">
           <div>
             <p class="desc">
-              Let us know how helpful this {{ helpfulText }} is
+              {{ helpfulDescription }}
             </p>
             <div>
               <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
@@ -322,14 +335,6 @@ const message = computed(() => getMessage(feedback.type!))
 .heading {
   font-size: 1.2rem;
   font-weight: 700;
-}
-
-.wrapper {
-  margin: 2rem 0;
-  padding: 1.5rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background: var(--vp-c-bg-alt);
 }
 
 .input {
